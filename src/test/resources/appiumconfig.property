@@ -1,0 +1,7 @@
+server.url=http://localhost:4723/wd/hub
+platformName=Android
+platformVersion=10.0.0
+deviceName=Pixel_4_API_29
+app=src/test/resources/Google_Calculator_8.3_(477856174).apk
+app.package=com.google.android.calculator
+app.activity=com.android.calculator2.Calculator
