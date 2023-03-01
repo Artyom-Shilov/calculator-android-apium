@@ -57,6 +57,7 @@ public class CalculatorPage extends BasePage {
     }
 
     public CalculatorPage tapClear() {
+        System.out.println("test");
         waitForElementVisibility(CLEAR_BUTTON_LOCATOR).click();
         return this;
     }
